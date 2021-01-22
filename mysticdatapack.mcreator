@@ -119,15 +119,6 @@
       "registry_name": "speed_crystal_give"
     },
     {
-      "name": "ThunderStaffUse",
-      "type": "function",
-      "sortid": 14,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "thunder_staff_use"
-    },
-    {
       "name": "ImmortalBattle",
       "type": "achievement",
       "sortid": 15,
@@ -144,6 +135,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "witchcraft_and_wizardry"
+    },
+    {
+      "name": "ThunderStaffUse",
+      "type": "function",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thunder_staff_use"
     }
   ],
   "variable_elements": [],
