@@ -119,15 +119,6 @@
       "registry_name": "immortal_battle"
     },
     {
-      "name": "SteamPowaaa",
-      "type": "achievement",
-      "sortid": 14,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "steam_powaaa"
-    },
-    {
       "name": "WitchcraftAndWizardry",
       "type": "achievement",
       "sortid": 15,
