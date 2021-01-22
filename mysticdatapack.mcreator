@@ -108,6 +108,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "load"
+    },
+    {
+      "name": "SpeedCrystalGive",
+      "type": "function",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "speed_crystal_give"
     }
   ],
   "variable_elements": [],
