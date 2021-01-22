@@ -5,7 +5,7 @@
       "item": "minecraft:golden_sword"
     },
     "title": "Immortal Battle",
-    "description": "Defeat a God in Combat",
+    "description": "Defeat a God",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

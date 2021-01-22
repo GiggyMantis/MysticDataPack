@@ -126,6 +126,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "thunder_staff_use"
+    },
+    {
+      "name": "ImmortalBattle",
+      "type": "achievement",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "immortal_battle"
+    },
+    {
+      "name": "WitchcraftAndWizardry",
+      "type": "achievement",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "witchcraft_and_wizardry"
     }
   ],
   "variable_elements": [],
