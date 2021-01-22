@@ -108,6 +108,33 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "load"
+    },
+    {
+      "name": "ImmortalBattle",
+      "type": "achievement",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "immortal_battle"
+    },
+    {
+      "name": "SteamPowaaa",
+      "type": "achievement",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steam_powaaa"
+    },
+    {
+      "name": "WitchcraftAndWizardry",
+      "type": "achievement",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "witchcraft_and_wizardry"
     }
   ],
   "variable_elements": [],
