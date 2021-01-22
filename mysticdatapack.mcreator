@@ -144,6 +144,42 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "thunder_staff_use"
+    },
+    {
+      "name": "VortexShardGive",
+      "type": "function",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vortex_shard_give"
+    },
+    {
+      "name": "AuroraCrystalGive",
+      "type": "function",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aurora_crystal_give"
+    },
+    {
+      "name": "AuroraPotionGive",
+      "type": "function",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aurora_potion_give"
+    },
+    {
+      "name": "Weeeee",
+      "type": "achievement",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "weeeee"
     }
   ],
   "variable_elements": [],
