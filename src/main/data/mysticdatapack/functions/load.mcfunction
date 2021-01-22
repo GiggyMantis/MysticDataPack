@@ -12,3 +12,5 @@ scoreboard objectives add FS_z1 dummy
 scoreboard objectives add FS_x2 dummy
 scoreboard objectives add FS_y2 dummy
 scoreboard objectives add FS_z2 dummy
+
+scoreboard objectives add ThunderTimer dummy
