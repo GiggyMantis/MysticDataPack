@@ -3,7 +3,7 @@
   "_type": "achievement",
   "definition": {
     "achievementName": "Weeeee",
-    "achievementDescription": "Drink an aurora potion",
+    "achievementDescription": "Drink an Aurora potion",
     "achievementIcon": {
       "value": "Items.POTIONITEM"
     },

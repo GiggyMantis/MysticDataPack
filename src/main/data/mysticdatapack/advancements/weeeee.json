@@ -4,7 +4,7 @@
       "item": "minecraft:potion"
     },
     "title": "Weeeee",
-    "description": "Drink an aurora potion",
+    "description": "Drink an Aurora potion",
     "frame": "task",
     "show_toast": false,
     "announce_to_chat": true,
