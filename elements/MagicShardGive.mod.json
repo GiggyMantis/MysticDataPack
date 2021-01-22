@@ -1,0 +1,9 @@
+{
+  "_fv": 13,
+  "_type": "function",
+  "definition": {
+    "code": "#\n#\n#\n#\n#\ngive @s iron_nugget{display:{Name:'{\"text\":\"Magic Shard\",\"italic\":false}'},CustomModelData:4,shard:1b} 1\n",
+    "name": "magicshardgive",
+    "namespace": "mod"
+  }
+}

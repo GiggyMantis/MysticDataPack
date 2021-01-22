@@ -1,0 +1,9 @@
+{
+  "_fv": 13,
+  "_type": "function",
+  "definition": {
+    "code": "#\n#\n#\n#\n#\n####runs the spell\nsummon fireball ^ ^ ^0.5 {ExplosionPower:0,Tags:[\"player\"]}\nkill @e[type=minecraft:snowball,nbt={Item:{tag:{firespell:1b}}},sort=nearest, limit=1]\n",
+    "name": "firespelluse",
+    "namespace": "mod"
+  }
+}

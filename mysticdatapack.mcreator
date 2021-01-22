@@ -1,0 +1,135 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "TickTag",
+      "type": "tag",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tick_tag"
+    },
+    {
+      "name": "LoadTag",
+      "type": "tag",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "load_tag"
+    },
+    {
+      "name": "FirespellGive",
+      "type": "function",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "firespell_give"
+    },
+    {
+      "name": "FirespellUse",
+      "type": "function",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "firespell_use"
+    },
+    {
+      "name": "HealthCrystalGive",
+      "type": "function",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "health_crystal_give"
+    },
+    {
+      "name": "LuckyCrystalGive",
+      "type": "function",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lucky_crystal_give"
+    },
+    {
+      "name": "MagicShardGive",
+      "type": "function",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magic_shard_give"
+    },
+    {
+      "name": "Motion",
+      "type": "function",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "motion"
+    },
+    {
+      "name": "ThunderstaffGive",
+      "type": "function",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thunderstaff_give"
+    },
+    {
+      "name": "EmptyFunction",
+      "type": "function",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "empty_function"
+    },
+    {
+      "name": "Loop",
+      "type": "function",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "loop"
+    },
+    {
+      "name": "Load",
+      "type": "function",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "load"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "workspaceSettings": {
+    "modid": "mysticdatapack",
+    "modName": "MysticDataPack",
+    "version": "1.0.0",
+    "author": "gordo, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "datapack-1.15.x",
+    "modElementsPackage": "net.mcreator.mysticdatapack",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

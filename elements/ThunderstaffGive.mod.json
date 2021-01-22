@@ -1,0 +1,9 @@
+{
+  "_fv": 13,
+  "_type": "function",
+  "definition": {
+    "code": "#\n#\n#\n#\n#\ngive @s carrot_on_a_stick{display:{Name:'{\"text\":\"Lightning Staff\",\"italic\":false}'},CustomModelData:5,thunderstaff:1b} 1\n",
+    "name": "thunderstaffgive",
+    "namespace": "mod"
+  }
+}
