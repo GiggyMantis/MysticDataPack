@@ -15,4 +15,4 @@ scoreboard objectives add FS_z2 dummy
 
 scoreboard objectives add ThunderTimer dummy
 scoreboard objectives add Num dummy
-scoreboard players set Num 1 1
+scoreboard players set 1 Num 1

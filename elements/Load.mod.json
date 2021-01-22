@@ -2,7 +2,7 @@
   "_fv": 13,
   "_type": "function",
   "definition": {
-    "code": "say Loaded Mystic Datapack\n#\n#Carrot on a stick init command\nscoreboard objectives add CarrotStickRC minecraft.used:minecraft.carrot_on_a_stick\n\n#motion 1\nscoreboard objectives add FS_x1 dummy\nscoreboard objectives add FS_y1 dummy\nscoreboard objectives add FS_z1 dummy\n\n#motion 2\nscoreboard objectives add FS_x2 dummy\nscoreboard objectives add FS_y2 dummy\nscoreboard objectives add FS_z2 dummy\n\nscoreboard objectives add ThunderTimer dummy\nscoreboard objectives add Num dummy\nscoreboard players set Num 1 1",
+    "code": "say Loaded Mystic Datapack\n#\n#Carrot on a stick init command\nscoreboard objectives add CarrotStickRC minecraft.used:minecraft.carrot_on_a_stick\n\n#motion 1\nscoreboard objectives add FS_x1 dummy\nscoreboard objectives add FS_y1 dummy\nscoreboard objectives add FS_z1 dummy\n\n#motion 2\nscoreboard objectives add FS_x2 dummy\nscoreboard objectives add FS_y2 dummy\nscoreboard objectives add FS_z2 dummy\n\nscoreboard objectives add ThunderTimer dummy\nscoreboard objectives add Num dummy\nscoreboard players set 1 Num 1",
     "name": "load",
     "namespace": "mod"
   }

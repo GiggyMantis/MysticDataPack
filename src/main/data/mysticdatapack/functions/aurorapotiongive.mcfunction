@@ -1,1 +1,2 @@
+advancement grant @s only mysticdatapack:weeeee
 give @s potion{display:{Name:'{"text":"Aurora Potion","italic":false}'},CustomModelData:25,aurora_potion:1b,Enchantments:[{}],CustomPotionEffects:[{Id:11b,Amplifier:1b,Duration:400},{Id:25b,Amplifier:1b,Duration:300},{Id:28b,Amplifier:1b,Duration:300}],Potion:"minecraft:empty",CustomPotionColor:8882055} 1
