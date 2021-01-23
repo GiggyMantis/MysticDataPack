@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:rose_bush"
+    },
+    "title": "PLANTS 'N STUFF",
+    "description": "Defeat the Jungle God",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "plantsnstuff": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 25
+  },
+  "parent": "mysticdatapack:immortal_battle"
+}

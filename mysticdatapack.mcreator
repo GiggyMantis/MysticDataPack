@@ -198,6 +198,69 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "pirate_loot"
+    },
+    {
+      "name": "OutOfFlames",
+      "type": "achievement",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "out_of_flames"
+    },
+    {
+      "name": "DavyJonesLocker",
+      "type": "achievement",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "davy_jones_locker"
+    },
+    {
+      "name": "PLANTSNSTUFF",
+      "type": "achievement",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plantsnstuff"
+    },
+    {
+      "name": "MasterOfAir",
+      "type": "achievement",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "master_of_air"
+    },
+    {
+      "name": "CookingWithStones",
+      "type": "achievement",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cooking_with_stones"
+    },
+    {
+      "name": "Vortexian",
+      "type": "achievement",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vortexian"
+    },
+    {
+      "name": "AdvancementMeetTelon",
+      "type": "achievement",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "advancement_meet_telon"
     }
   ],
   "variable_elements": [],
