@@ -180,6 +180,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "weeeee"
+    },
+    {
+      "name": "AngelicBirdLoot",
+      "type": "loottable",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "angelic_bird_loot"
+    },
+    {
+      "name": "PirateLoot",
+      "type": "loottable",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pirate_loot"
     }
   ],
   "variable_elements": [],
