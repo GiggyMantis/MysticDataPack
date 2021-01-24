@@ -1,4 +1,4 @@
-say Loaded Mystic Datapack
+tellraw @a [{"text":"Loaded ","color":"dark_aqua","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false},{"text":"Mystic","color":"dark_purple","bold":true,"italic":false,"underlined":true,"strikethrough":false},{"text":" by GiggyMantis and DestroyerNC","color":"blue","bold":false,"italic":false,"underlined":true,"strikethrough":false,"obfuscated":false}]
 #
 #Carrot on a stick init command
 scoreboard objectives add CarrotStickRC minecraft.used:minecraft.carrot_on_a_stick
