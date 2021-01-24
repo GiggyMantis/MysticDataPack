@@ -2,7 +2,7 @@
   "_fv": 13,
   "_type": "achievement",
   "definition": {
-    "achievementName": "Vortexian",
+    "achievementName": "The shards of the fallen god",
     "achievementDescription": "Defeat the Vortex God",
     "achievementIcon": {
       "value": "Blocks.END_GATEWAY"
@@ -16,7 +16,7 @@
     "rewardRecipes": [],
     "rewardFunction": "No function",
     "rewardXP": 60,
-    "achievementType": "goal",
+    "achievementType": "challenge",
     "parent": {
       "value": "CUSTOM:ImmortalBattle"
     },

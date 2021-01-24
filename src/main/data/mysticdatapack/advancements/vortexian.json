@@ -3,9 +3,9 @@
     "icon": {
       "item": "minecraft:end_gateway"
     },
-    "title": "Vortexian",
+    "title": "The shards of the fallen god",
     "description": "Defeat the Vortex God",
-    "frame": "goal",
+    "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
