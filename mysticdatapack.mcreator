@@ -195,7 +195,7 @@
       "type": "loottable",
       "sortid": 23,
       "compiles": true,
-      "locked_code": false,
+      "locked_code": true,
       "ids": {},
       "registry_name": "pirate_loot"
     },
@@ -261,6 +261,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "advancement_meet_telon"
+    },
+    {
+      "name": "CutlassGive",
+      "type": "function",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cutlass_give"
     }
   ],
   "variable_elements": [],
